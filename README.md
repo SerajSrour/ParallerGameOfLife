@@ -1,6 +1,6 @@
 # Paraller Game Of Life Game
 
-The Game of Life (or simply Life) is not a game in the conventional sense. There are no players, and no
+**The Game of Life** (or simply Life) is not a game in the conventional sense. There are no players, and no
 winning or losing. Once the "pieces" are placed in the starting position, the rules determine everything
 that happens later.
 
@@ -27,4 +27,4 @@ The field is split between different threads so that in every generation (iterat
 its own rows of the field (which are split as equally as possible between all the working threads)
 calculating the next generation’s field.
 
-FINAL GRADE 100
+**FINAL GRADE 100**
